@@ -1,0 +1,5 @@
+Welcome to Geekster
+        This content is displayed from a local HTML file using an iframe.
+        
+        Similarly you can craete different sizes of windows using iframes in HTML
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, ullam quasi quae, hic neque sit, tempore maxime nostrum rerum magni fuga ea pariatur. Quia rem exercitationem dolorum hic corporis incidunt?
